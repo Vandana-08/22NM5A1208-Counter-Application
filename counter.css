@@ -1,0 +1,26 @@
+.para {
+    font-size:50px ;
+    font-weight:600;
+    font-family:roboto;
+}
+.head {
+    font-size: 80px;
+    font-weight:800 ;
+    font-family:roboto;
+}
+.button {
+      height:30px;
+      width:100px;
+      border-radius:10px;
+      font-family:roboto;
+      font-size:20px;
+      margin:10px;
+      background-color: aqua;
+}
+.container {
+    background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2F2016%2F06%2FDownload-hd-nature-wallpaper.jpg&tbnid=Ojx2V8q7dnTxpM&vet=10CAkQMyhsahcKEwjggqnhh7GAAxUAAAAAHQAAAAAQAw..i&imgrefurl=https%3A%2F%2Fwww.pixelstalk.net%2Ffree-download-hd-nature-wallpapers%2F&docid=INrJtGqX-4d5fM&w=1920&h=1200&q=nature%20images%20hd&ved=0CAkQMyhsahcKEwjggqnhh7GAAxUAAAAAHQAAAAAQAw");
+    height: 200vp;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
